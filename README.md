@@ -1,0 +1,2 @@
+# Zipfs_Analysis-Yoruba_-_Igbo
+This was a 'Properties of Text' final-year university project. Zipf's Law (a frequency-rank analysis of words in text) were done on corpora(bodies of words) taken from the indigenous languages of Yoruba, Igbo and Hausa. These were scraped off of online websites in these langaues, like BBC News (Yoruba, Igbo &amp; Hausa), and YouVersion.  Text bodies of more than 1 million unique words were created and these in all these languages were seen to follow Zipf's Law.
